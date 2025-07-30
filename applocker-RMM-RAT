@@ -1,5 +1,6 @@
 #RAT/RMMs
 #Special thanks to LOLRMM.IO for creating a repository of RMM/RATs.
+#Command used to get formatted output - 'Get-AppLockerFileInformation .\yourrathere.exe | fl'
 
 #Anydesk 
 ANYDESK.EXE
