@@ -1,0 +1,5 @@
+#Utilities that may be undesirable
+
+#cyberduck - often used for data exfiltration
+Path          : CYBERDUCK.EXE
+Publisher     : O=ITERATE GMBH, S=BERN, C=CH\CYBERDUCK\CYBERDUCK.EXE,9.2.4.43667
